@@ -12,17 +12,6 @@ Input Validation: Robust error handling for all user inputs
 
 Comprehensive Help: Detailed game instructions given at the start
 
-## 📁 Project Structure
-`
-text
-Guess-The-Country/
-├── data.py              # Country database by continent
-├── guess_the_country.py # Main game logic and functions
-├── main.py              # Entry point for the game
-└── README.md            # This file
-`
-
-
 ## Installation
 Clone the repository:
 `
